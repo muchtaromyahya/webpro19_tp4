@@ -1,0 +1,76 @@
+[
+    {
+         "text" : "blablabla",
+         "timestamp" : "Thu Apr 06 15:24:15 2017",
+         "favourite_count" : "100",
+         "retweet_count" : "200",
+         "user" : 
+             {
+                "screen_name" : "Grms",
+                "name" : "The Grimss",
+                "followers_count" : "300",
+                "friends_count" : "150",
+                "url_image" : "1.PNG"
+             }
+    },
+    {
+        "text" : "tweet",
+        "timestamp" : "Thu Apr 06 15:24:15 2017",
+        "favourite_count" : "100",
+        "retweet_count" : "200",
+        "user" : 
+            {
+               "screen_name" : "Grms",
+               "name" : "Grimss",
+               "followers_count" : "300",
+               "friends_count" : "150",
+               "url_image" : "2.JPG"
+            }
+        
+   },
+    {
+        "text" : "apelo",
+        "timestamp" : "Thu Apr 06 15:24:15 2017",
+        "favourite_count" : "100",
+        "retweet_count" : "200",
+        "user" : 
+            {
+               "screen_name" : "Grms",
+               "name" : "Grimss",
+               "followers_count" : "300",
+               "friends_count" : "150",
+               "url_image" : "3.PNG"
+            }
+        
+   },
+    {
+        "text" : "aing",
+        "timestamp" : "Thu Apr 06 15:24:15 2017",
+        "favourite_count" : "100",
+        "retweet_count" : "200",
+        "user" : 
+            {
+               "screen_name" : "Grms",
+               "name" : "Grimss",
+               "followers_count" : "300",
+               "friends_count" : "150",
+               "url_image" : "4.JPG"
+            }
+        
+   },
+    {
+        "text" : "sia",
+        "timestamp" : "Thu Apr 06 15:24:15 2017",
+        "favourite_count" : "100",
+        "retweet_count" : "200",
+        "user" : 
+            {
+               "screen_name" : "Grms",
+               "name" : "Grimss",
+               "followers_count" : "300",
+               "friends_count" : "150",
+               "url_image" : "5.JPG"
+            }
+        
+   }
+]
